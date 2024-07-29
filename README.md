@@ -31,4 +31,4 @@ This repository contains the implementation of a Convolutional Neural Network (C
    - Plot training and validation accuracy to visualize the training process and assess the model's performance over epochs.
 
 8. **Evaluating the Model**:
-   - Evaluate the model on the test data to determine its accuracy.
+   - Evaluate the model on the test data to determine its accuracy , This simple CNN has achieved a test accuracy of over 70% ..
