@@ -35,3 +35,6 @@ This repository contains the implementation of a Convolutional Neural Network (C
 
 8. **Evaluating the Model**:
    - Evaluate the model on the test data to determine its accuracy , This simple CNN has achieved a test accuracy of over 70% ..
+
+![plot](https://github.com/user-attachments/assets/46d1ccab-8d5b-447c-a47d-36b43098e9c7)
+
